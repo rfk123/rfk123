@@ -1,6 +1,6 @@
 # Hi, I'm Reza 👋
 
-I'm an aspiring software engineer focused on building full-stack products, backend systems, and AI-powered applications.
+I'm an aspiring software engineer focused on building full-stack products and AI-powered applications.
 
 Currently, I work at Daimler Truck North America as a Technical Support Specialist and build software projects across React, TypeScript, Python, Node.js, SQL, and AWS.
 
