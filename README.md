@@ -16,7 +16,7 @@ Currently, I work at Daimler Truck North America as a Technical Support Speciali
 A reflective social journaling platform built with Next.js, AWS, MySQL, and Fastify.
 
 ### Trent Family Farms Subscription Platform
-A production subscription platform serving 600+ users and processing $200K+ in payments.
+A production subscription platform serving 400+ users and processing $200K+ in transactions.
 
 ### SNF Referral Assistant
 An AI-assisted healthcare referral platform combining structured CMS data with LLM-powered querying.
